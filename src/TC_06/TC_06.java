@@ -13,11 +13,11 @@ public class TC_06 extends BaseDriver {
     @Test
     public void Test1() {
         driver.get("https://shopdemo.e-junkie.com/ ");
-        MyFunc.Bekle(1);
+        MyFunc.bekle(1);
 
         WebElement loginElement = driver.findElement(By.xpath("//a[@href='/contact']"));
         loginElement.click();
-        MyFunc.Bekle(1);
+        MyFunc.bekle(1);
 
         WebElement name = driver.findElement(By.xpath("//input[@id='sender_name']"));
         name.sendKeys("technostudyteam8");
@@ -34,7 +34,7 @@ public class TC_06 extends BaseDriver {
 
         WebElement button = driver.findElement(By.id("send_message_button"));
         button.click();
-        MyFunc.Bekle(1);
+        MyFunc.bekle(1);
 
         wait.until(ExpectedConditions.alertIsPresent());
 

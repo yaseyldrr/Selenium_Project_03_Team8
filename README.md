@@ -22,9 +22,13 @@ The project has a total of 9 user stories in the sprint backlog:
 8. **US_308:** Accessing the Informational Video on the E-Junkie Homepage
 
 ## Technologies Used
-- JDK: [Insert version information]
-- Selenium: [Insert Selenium version information]
-- [Other libraries or tools]
+The basic technologies and tools to be used in this project include:
+
+- Java - Programming language
+- Selenium - Web browser automation
+- Apache POI - Library for reading and writing Excel files
+- Git & GitHub - Version control Systems
+- JIRA & Zephyr-Squad - Test management Tools
 
 ## Additional Procedures
 - Manual test GIFs will be shared with the user stories.

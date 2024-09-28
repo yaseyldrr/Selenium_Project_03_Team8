@@ -43,11 +43,11 @@ The project has a total of 9 user stories in the sprint backlog:
 - Negative user stories and scenarios should be considered during testing. This will help improve user experience and prevent error situations.
 
 ## Contributors
-[Yasemin Yıldırır](https://github.com/yaseyldrr) - Project TeamLead & QA Automation Engineer
-[Abylmyrat Gummanov](https://github.com/abdycoding) -  QA Automation Engineer
-[Furkan Akalin](https://github.com/furkanakalin) - QA Automation Engineer
-[Yeldar Zulyarov](https://github.com/Yeldar123) - QA Automation Engineer
-[Burak Bilgiç](https://github.com/lurall) - QA Automation Engineer
-[Mahir Özçelik](https://github.com/Mahir-Ozcelik) - QA Automation Engineer
-[Gulmeiram Kongurbayeva](https://github.com/Gul8) - QA Automation Engineer
+- [Yasemin Yıldırır](https://github.com/yaseyldrr) - Project TeamLead & QA Automation Engineer
+- [Abylmyrat Gummanov](https://github.com/abdycoding) -  QA Automation Engineer
+- [Furkan Akalin](https://github.com/furkanakalin) - QA Automation Engineer
+- [Yeldar Zulyarov](https://github.com/Yeldar123) - QA Automation Engineer
+- [Burak Bilgiç](https://github.com/lurall) - QA Automation Engineer
+- [Mahir Özçelik](https://github.com/Mahir-Ozcelik) - QA Automation Engineer
+- [Gulmeiram Kongurbayeva](https://github.com/Gul8) - QA Automation Engineer
 
